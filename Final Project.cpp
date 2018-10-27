@@ -56,7 +56,9 @@ float score=0.00;
 time_t now= time(0);
 char *t =ctime(&now);
 time_t intialtime,finaltime;
-system("color 0E");          //For color 
+//system("color 0E");
+system("color 6A");	
+	//For color 
 comeback:// its a comeback once more//
 system("color 0E");
 system("cls");
