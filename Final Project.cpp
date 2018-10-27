@@ -9,6 +9,7 @@
 #include<dos.h>
 #include<ctype.h>
 #include<string.h>
+#include<string.h>
 
 
  void help();
